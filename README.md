@@ -132,21 +132,6 @@ The dataset contains several important locations around Dehradun including:
 
 ---
 
-## 📷 Screenshots
-
-### Home Page
-
-(Add Screenshot Here)
-
-### Route Visualization
-
-(Add Screenshot Here)
-
-### Analytics Dashboard
-
-(Add Screenshot Here)
-
----
 
 ## 🔮 Future Improvements
 
